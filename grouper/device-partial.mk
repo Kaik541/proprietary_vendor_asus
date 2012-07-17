@@ -23,7 +23,7 @@ PRODUCT_PACKAGES := \
     keystore.grouper \
     libdrmwvmplugin \
     libpn544_fw \
-    libsensors.lightsensors \
+    libsensors.lightsensor \
     libwvm \
     sensors.grouper \
     sensors-config \
