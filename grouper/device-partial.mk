@@ -17,9 +17,6 @@ PRODUCT_PACKAGES := \
     asound \
     btmacreader \
     camera.tegra3 \
-    glgps \
-    gps.tegra3 \
-    gpsconfig \
     keystore.grouper \
     libdrmwvmplugin \
     libpn544_fw \
