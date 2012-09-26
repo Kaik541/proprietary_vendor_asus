@@ -24,5 +24,4 @@ PRODUCT_PACKAGES := \
     libwvm \
     sensors.grouper \
     sensors-config \
-    tf_daemon \
-    touch_fw
+    tf_daemon
