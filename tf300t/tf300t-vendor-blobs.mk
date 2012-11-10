@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf300t/proprietary/bin/glgps:system/bin/glgps \
     vendor/asus/tf300t/proprietary/bin/tf_daemon:system/bin/tf_daemon \
-    vendor/asus/tf300t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
     vendor/asus/tf300t/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/asus/tf300t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/asus/tf300t/proprietary/etc/asound.conf:system/etc/asound.conf \
@@ -33,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/etc/nvaudio_conf_WM8903.xml:system/etc/nvaudio_conf_WM8903.xml \
     vendor/asus/tf300t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf300t/proprietary/etc/nvram_nh615.txt:system/etc/nvram_nh615.txt \
+    vendor/asus/tf300t/proprietary/etc/nvram_nh665.txt:system/etc/nvram_nh665.txt \
     vendor/asus/tf300t/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/asus/tf300t/proprietary/lib/libhardware_legacy.so:system/lib/libhardware_legacy.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
