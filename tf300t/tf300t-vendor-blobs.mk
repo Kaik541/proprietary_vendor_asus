@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf300t/proprietary/etc/nvram_nh615.txt:system/etc/nvram_nh615.txt \
     vendor/asus/tf300t/proprietary/etc/nvram_nh665.txt:system/etc/nvram_nh665.txt \
+    vendor/asus/tf300t/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
