@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf300t/proprietary/bin/glgps:system/bin/glgps \
     vendor/asus/tf300t/proprietary/bin/tf_daemon:system/bin/tf_daemon \
-    vendor/asus/tf300t/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/asus/tf300t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/asus/tf300t/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/tf300t/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
@@ -33,8 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf300t/proprietary/etc/nvram_nh615.txt:system/etc/nvram_nh615.txt \
     vendor/asus/tf300t/proprietary/etc/nvram_nh665.txt:system/etc/nvram_nh665.txt \
-    vendor/asus/tf300t/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
-    vendor/asus/tf300t/proprietary/lib/libhardware_legacy.so:system/lib/libhardware_legacy.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/asus/tf300t/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
@@ -155,7 +152,4 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/etc/firmware/camera/04-RS_M6Mo.bin:system/etc/firmware/camera/04-RS_M6Mo.bin \
     vendor/asus/tf300t/proprietary/etc/firmware/camera/05-01-000128.bin:system/etc/firmware/camera/05-01-000128.bin \
     vendor/asus/tf300t/proprietary/etc/firmware/camera/05-02-000128.bin:system/etc/firmware/camera/05-02-000128.bin \
-    vendor/asus/tf300t/proprietary/etc/firmware/camera/07-02-000303.bin:system/etc/firmware/camera/07-02-000303.bin \
-    vendor/asus/tf300t/proprietary/firmware/fw_bcm4329.bin:system/vendor/firmware/fw_bcm4329.bin \
-    vendor/asus/tf300t/proprietary/firmware/fw_bcm4329_apsta.bin:system/vendor/firmware/fw_bcm4329_apsta.bin
-
+    vendor/asus/tf300t/proprietary/etc/firmware/camera/07-02-000303.bin:system/etc/firmware/camera/07-02-000303.bin
