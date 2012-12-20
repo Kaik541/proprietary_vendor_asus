@@ -120,7 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
     vendor/asus/tf201/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
     vendor/asus/tf201/proprietary/lib/libnvmm_writer.so:system/lib/libnvmm_writer.so \
-    vendor/asus/tf201/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/asus/tf201/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
     vendor/asus/tf201/proprietary/lib/libnvodm_dtvtuner.so:system/lib/libnvodm_dtvtuner.so \
     vendor/asus/tf201/proprietary/lib/libsensors.isl29018.so:system/lib/libsensors.isl29018.so \
