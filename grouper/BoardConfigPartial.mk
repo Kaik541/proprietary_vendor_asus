@@ -11,13 +11,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-# Asus blob(s) necessary for Grouper hardware
-PRODUCT_PACKAGES := \
-    btmacreader \
-    sensors-config \
-    camera.tegra3 \
-    sensors.grouper \
-    libsensors.lightsensor \
-    libdrmwvmplugin \
-    libwvm
