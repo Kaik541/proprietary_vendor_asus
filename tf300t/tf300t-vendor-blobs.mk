@@ -155,6 +155,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf300t/proprietary/lib/libsensors.isl29018.so:system/lib/libsensors.isl29018.so \
     vendor/asus/tf300t/proprietary/lib/libsensors.isl29028.so:system/lib/libsensors.isl29028.so \
     vendor/asus/tf300t/proprietary/lib/libsensors.ltr558als.so:system/lib/libsensors.ltr558als.so \
+    vendor/asus/tf300t/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/asus/tf300t/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
     vendor/asus/tf300t/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf \
     vendor/asus/tf300t/proprietary/usr/share/alsa/pcm/center_lfe.conf:system/usr/share/alsa/pcm/center_lfe.conf \
